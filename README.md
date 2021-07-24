@@ -10,6 +10,10 @@ authToken = ""
 at the top of `scrape.py` in order to use the SmashGG API. 
 
 ___
+Dependencies: 
+
+`pip install graphqlclient`
+___
 Usage: 
 
 ``
